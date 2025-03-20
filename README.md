@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElleWilliams814.
+- 👋 Hi, I’m @Elle-Williams.
 - 👀 I’m interested in a junior developer role and immersive RPGs.
 - 🌱 I’m currently working on expanding my coding foundation via FreeCodeCamp and Code With Mosh.
 - 💞️ I’m looking to collaborate on anything. Really! I'm a noob.
